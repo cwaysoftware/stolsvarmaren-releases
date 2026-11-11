@@ -1,3 +1,7 @@
+## v1.0.1 -- 2026-11-11
+
+Små förbättringar.
+
 ## v1.0.0 -- 2026-11-11
 
 Logga in med ditt Collabra-konto. Du ändrar dina egna dagar, administratörer allas.
