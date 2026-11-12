@@ -1,3 +1,7 @@
+## v1.0.4 -- 2026-11-12
+
+Välj under Inställningar → Ansvarsveckor vilka som turas om att ha ansvarsvecka.
+
 ## v1.0.3 -- 2026-11-12
 
 Små förbättringar av utseendet.
