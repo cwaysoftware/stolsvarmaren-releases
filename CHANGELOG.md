@@ -1,3 +1,7 @@
+## v1.0.3 -- 2026-11-12
+
+Små förbättringar av utseendet.
+
 ## v1.0.2 -- 2026-11-11
 
 Utan VPN säger appen nu att du behöver ansluta till kontorets VPN, och fortsätter av sig själv när du gjort det.
